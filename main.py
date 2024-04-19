@@ -9,9 +9,9 @@ class O_Object():
         self.wa2 = wa2
         self.wa3 = wa3
 Ql = []
-Ql.append(O_Object('?',"1","2","3","4"))
-Ql.append(O_Object('?',"1","2","3","4"))
-Ql.append(O_Object('?',"1","2","3","4"))
+Ql.append(O_Object('2+2',"4","22","1","5"))
+Ql.append(O_Object('342-27*532',"167580","274385","787234675","723428208470384238490249023826785738295782350"))
+Ql.append(O_Object('√3',"1.732","1.932","1.432","1.132"))
 
 
 
