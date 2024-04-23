@@ -1,2 +1,2 @@
-# racetabombapitarda
-bimbimbambam
+# easy test on pyton
+(PyQt5)
